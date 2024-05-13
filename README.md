@@ -1,1 +1,3 @@
-# JsHomework![Adsız2](https://github.com/arifozanaktas/JsHomework/assets/139919845/aff14c0a-900a-4bef-9aff-fe4e62ffe54a)
+# JsHomework!
+
+![Screenshot_2](https://github.com/arifozanaktas/JsHomework/assets/139919845/46a68a03-8b94-4d96-a420-5db7481681ae)
